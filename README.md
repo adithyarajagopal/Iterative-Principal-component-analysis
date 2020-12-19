@@ -6,3 +6,6 @@ Further exlpained in my resume
 
 I have further incorporated outlier detection in the model using hypothesis testing as well -- Chisquared test
 
+
+Kindly look  into the presentation for the derivation of IPCA using MLE of Multivariate Gaussian
+
